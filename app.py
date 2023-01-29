@@ -58,8 +58,8 @@ def get_human_count():
 owd = os.getcwd()
 
 st.set_page_config(
-    page_title = 'Intelligent Transport Alert – ITA',
-    page_icon = '🚦',
+    page_title = 'another Intelligent Transport Alert – ITA',
+    page_icon = '🚦*',
     layout = 'wide',
     menu_items={'About': """# Recorded Data from Camera 
                             This is an *extremely* cool app!"""}    
