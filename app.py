@@ -58,7 +58,7 @@ def get_human_count():
 owd = os.getcwd()
 
 st.set_page_config(
-    page_title = 'another Intelligent Transport Alert – ITA',
+    page_title = 'ktra sửa file',
     page_icon = '🚦*',
     layout = 'wide',
     menu_items={'About': """# Recorded Data from Camera 
